@@ -6,3 +6,4 @@ Command to run:
 ```bash
 python3 ct.py
 ```
+data_copying_tests.py is taken from Meehan et al., 2020.
